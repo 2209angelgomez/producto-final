@@ -53,6 +53,7 @@ header{
 	position: absolute;
 	left: 130px;
 	top: 510px;
+	
 
 
 }
@@ -135,6 +136,9 @@ transition: all 1000ms ease-in-out;
 	width: 100%;
 }
 
+.it{
+width: 100%}
+
 
 
 
@@ -142,8 +146,6 @@ transition: all 1000ms ease-in-out;
  body{
 		width: 100%;
 	
-	
-
 	}
 }
 
@@ -152,5 +154,6 @@ transition: all 1000ms ease-in-out;
 		background-color: #7F0141 ;
 	}
 }
+
 
 
